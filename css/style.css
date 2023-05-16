@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.IconMusicPlayer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Icone{
+    width: 50px;
+    height: 50px;
+}
